@@ -31,3 +31,6 @@
 	<li><code>1 &lt;= nums[i] &lt;= 2 * 10<sup>9</sup></code></li>
 	<li>All the integers in <code>nums</code> are <strong>unique</strong>.</li>
 </ul>
+
+
+https://leetcode.com/problems/largest-divisible-subset/solutions/6620153/dp-sorting-with-images-example-walkthrough-c-python-java
