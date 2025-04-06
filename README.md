@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Database
+|  |
+| ------- |
+| [1452-restaurant-growth](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1452-restaurant-growth) |
 <!---LeetCode Topics End-->
