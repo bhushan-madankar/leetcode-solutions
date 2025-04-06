@@ -32,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1452-restaurant-growth](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1452-restaurant-growth) |
+| [1811-fix-names-in-a-table](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
