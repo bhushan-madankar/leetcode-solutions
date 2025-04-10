@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+## String
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 <!---LeetCode Topics End-->
