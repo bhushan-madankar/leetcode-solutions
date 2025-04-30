@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2122-count-special-quadruplets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
