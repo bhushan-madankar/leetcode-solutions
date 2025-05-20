@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3639-zero-array-transformation-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
