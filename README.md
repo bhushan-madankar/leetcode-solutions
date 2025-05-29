@@ -157,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Tree
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
