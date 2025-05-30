@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Combinatorics
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2122-count-special-quadruplets](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2122-count-special-quadruplets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3639-zero-array-transformation-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
