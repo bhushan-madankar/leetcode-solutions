@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3639-zero-array-transformation-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 ## Counting
 |  |
