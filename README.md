@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0321-create-maximum-number](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0368-largest-divisible-subset](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0945-snakes-and-ladders](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0952-word-subsets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0321-create-maximum-number) |
+| [0376-wiggle-subsequence](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Linked List
