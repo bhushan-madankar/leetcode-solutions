@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0321-create-maximum-number](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0368-largest-divisible-subset](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0945-snakes-and-ladders](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sliding Window
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Linked List
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0321-create-maximum-number](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0321-create-maximum-number) |
 ## String Matching
 |  |
 | ------- |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
