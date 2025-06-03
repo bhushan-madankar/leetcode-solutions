@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1524-string-matching-in-an-array](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2122-count-special-quadruplets) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
 |  |
