@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2122-count-special-quadruplets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Recursion
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
 |  |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0321-create-maximum-number](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String Matching
 |  |
 | ------- |
