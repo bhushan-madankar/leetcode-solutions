@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2792-neighboring-bitwise-xor](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0952-word-subsets](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0389-find-the-difference](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0952-word-subsets](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
