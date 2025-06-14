@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2122-count-special-quadruplets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2685-first-completely-painted-row-or-column](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
+| [2685-first-completely-painted-row-or-column](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
