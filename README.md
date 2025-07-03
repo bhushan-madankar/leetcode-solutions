@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0198-house-robber) |
 | [0321-create-maximum-number](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0321-create-maximum-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [2685-first-completely-painted-row-or-column](https://github.com/bhushan-madankar/leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
